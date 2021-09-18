@@ -6,7 +6,7 @@ def main():
     #Opening file for saving results, and writing headers
     filename = 'houses.csv'
     f = open(filename, 'w')
-    headers = 'Adress, Area, Size (in m^2), Price (in NOK), Bedrooms \n'
+    headers = 'Adress,Area,Size(in m^2),Price(in NOK),Bedrooms \n'
     f.write(headers)
 
     n = 20 #Number of web pages to scrape

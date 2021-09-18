@@ -1,0 +1,1021 @@
+Address, Area, Size(in m^2), Price(in NOK), Bedrooms 
+Sorgenfrigata 34, Oslo,90 ,10 490 000 ,NaN
+Prinsdalsfaret 3B-3C, Oslo,NaN,NaN,4
+Maridalsveien 47 A, Oslo,74 ,6 500 000,2
+Mortensrudveien 16E, Oslo,81 ,3 600 000,2
+Ravnkollbakken 20, Oslo,88 ,2 900 000,3
+Haakon Tveters vei 53, Oslo,40 ,3 200 000,1
+Schønings gate 15, Oslo,121 ,14 750 000,2
+Åmotveien 9, Oslo,148 ,20 000 000 ,NaN
+Brattlistubben 9, Oslo,240 ,9 700 000,6
+Hjelms gate 7B, Oslo,71 ,7 000 000,3
+Veitvetveien 11, Oslo,86 ,3 850 000,3
+Eterveien 9, Oslo,116 ,8 200 000,4
+Fridtjof Nansens vei 5B, Oslo,81 ,10 900 000,2
+Ringgata 2A, Oslo,51 ,3 990 000,1
+Skausnaret 12, Oslo,130 ,11 000 000,NaN
+Thurmanns gate 7, Oslo,40 ,3 790 000,NaN
+Bestumveien 84N, Oslo,76 ,5 700 000,2
+Leyrins gate 3, Oslo,85 ,6 800 000,3
+Herman Foss' gate 8 A, Oslo,68 ,6 800 000,2
+Framnes terrasse 3B, Oslo,49 ,5 000 000,1
+Romsdalsgata 5B, Oslo,30 ,3 400 000,1
+Reichweins gate 3, Oslo,46 ,4 490 000,1
+Vækerøveien 193 A, Oslo,45 ,4 500 000,1
+Magnefaret 14, Oslo,66 ,7 250 000,1
+Ulsrudveien 24, Oslo,143 ,9 500 000,3
+Skøyenåsveien 13, Oslo,73 ,4 390 000,3
+Tyristubbveien 13, Oslo,64 ,4 750 000,2
+Gamle Enebakkvei 55, Oslo,94 ,5 600 000,3
+Haakon Tveters vei 49, Oslo,53 ,3 650 000,1
+Fredensborgveien 24D, Oslo,53 ,5 850 000,1
+Oskar Braatens gate 22, Oslo,52 ,4 000 000,1
+Kløfterhagen 27 B, Oslo,100 ,4 450 000,3
+Sandakerveien 74A, Oslo,72 ,6 450 000,2
+Stensgata 40, Oslo,50 ,4 750 000,2
+Eltonveien 27, Oslo,157 ,11 450 000,4
+Mina Beiteplukksvei 121, Oslo,119 ,6 150 000,3
+Sørkedalsveien 283C, Oslo,227 ,12 950 000,5
+Bergensveien 4A, Oslo,34 ,2 790 000,1
+Jordstjerneveien 29E, Oslo,65 ,3 950 000,2
+Schønings gate 5B, Oslo,42 ,4 600 000,1
+Sverdrups gate 3, Oslo,77 ,6 950 000,2
+Pontoppidans gate 12 B, Oslo,47 ,4 280 000,2
+Vålerenggata 4, Oslo,46 ,2 570 000,1
+Bidenkaps gate 1B, Oslo,37 ,4 190 000,1
+Welhavens gate 20, Oslo,146 ,13 000 000,5
+Olav Kyrres gate 8, Oslo,52 ,4 950 000,1
+Freserveien 11, Oslo,44 ,2 590 000,1
+Oppsalstubben 6, Oslo,73 ,4 125 000,2
+Jonas Dahls vei 39, Oslo,25 ,2 850 000,NaN
+Flyveien 1, Oslo,110 ,6 990 000,3
+Ivan Bjørndals gate 1, Oslo,81 ,7 650 000,3
+Kjølberggata 1 F, Oslo,52 ,3 700 000 ,NaN
+Framnesveien 8A, Oslo,124 ,12 450 000,3
+Vogts gate 52A, Oslo,48 ,4 590 000,1
+Parkveien 64, Oslo,45 ,3 900 000,1
+Evald Ryghs gate 16A, Oslo,82 ,6 900 000,2
+Hovseterveien 36A, Oslo,80 ,5 400 000,2
+Jordalgata 2, Oslo,45 ,3 664 000,1
+Rosenborggata 12, Oslo,37 ,3 390 000,1
+Odvar Solbergs vei 138, Oslo,86 ,3 300 000,3
+Ulvenveien 125C, Oslo,77 ,3 840 000,2
+Landingsveien 15, Oslo,71 ,5 000 000,2
+Maridalsveien 242, Oslo,87 ,6 700 000,3
+Rugveien 71, Oslo,69 ,3 800 000,2
+Lakkegata 68B, Oslo,34 ,3 060 000,1
+Vetlandsfaret 11A, Oslo,70 ,3 800 000,2
+Holmenkollveien 78G, Oslo,103 ,7 200 000,3
+St. Edmunds vei 35, Oslo,54 ,5 450 000,2
+Regnbueveien 1, Oslo,65 ,3 950 000,2
+Jonas Dahls vei 41, Oslo,63 ,5 100 000,2
+Lindebergåsen 25C, Oslo,79 ,3 750 000,2
+Innspurten 4B, Oslo,66 ,3 360 000,2
+Melkeveien 29B, Oslo,252 ,18 500 000,4
+Ullernveien 81, Oslo,126 ,7 500 000,3
+Vestre Haugen 58, Oslo,58 ,2 990 000,2
+Brinken 7, Oslo,46 ,3 890 000,1
+Gangstuveien 12, Oslo,72 ,3 500 000,2
+Uranienborgveien 11E, Oslo,64 ,4 950 000,1
+Grefsenkollveien 38, Oslo,102 ,8 750 000,3
+Sarpsborggata 3B, Oslo,63 ,5 500 000,2
+Skøyen terrasse 37, Oslo,94 ,6 500 000,1
+Schweigaards gate 79D, Oslo,43 ,3 850 000,1
+Årvollveien 58V, Oslo,76 ,5 600 000,2
+Øivinds vei 22, Oslo,66 ,3 980 000,2
+Rødbergveien 2B, Oslo,66 ,4 280 000,2
+Hertzbergs gate 3A, Oslo,57 ,5 750 000,2
+Lavrans vei 1C, Oslo,59 ,4 200 000,2
+Sofienberggata 61 C, Oslo,73 ,5 400 000,2
+Traverveien 33, Oslo,67 ,4 500 000,2
+Kristine Bonnevies vei 2, Oslo,58 ,3 450 000,1
+Fallanveien 30B, Oslo,99 ,7 100 000,3
+Ekebergveien 177C, Oslo,114 ,9 700 000,4
+Hagtornveien 4B, Oslo,83 ,7 800 000,2
+Schives gate 6A, Oslo,101 ,10 500 000,2
+Lambertseterveien 19, Oslo,45 ,3 700 000,1
+Bauneveien 1, Oslo,107 ,12 000 000,3
+Midtveien 11C, Oslo,175 ,12 500 000,5
+Bjerregaards gate 56G, Oslo,102 ,7 900 000,2
+Stensgata 27, Oslo,91 ,8 500 000,2
+Pilestredet Park 20, Oslo,71 ,7 200 000,2
+Økern torgvei 9H, Oslo,38 ,3 650 000,1
+Husebybakken 10, Oslo,101 ,7 700 000,3
+Frydens gate 5 A, Oslo,60 ,4 990 000 ,NaN
+Hagelundveien 17, Oslo,68 ,3 600 000,2
+Vetlandsveien 63A, Oslo,56 ,3 590 000,1
+ Peter Møllers vei 8-14, Oslo,39 ,1 655 000 ,NaN
+Ensjøveien 34, Oslo,61 ,6 150 000 ,NaN
+Vollebekk - Humla Brl - salgstrinn 1, Oslo,59 ,2 460 000 ,NaN
+Middelthunet hus C, Oslo,51 ,6 700 000 ,NaN
+Melumveien 81 og 83, Oslo,253 ,15 400 000 ,NaN
+ Peter Møllers vei 8-14, Oslo,37 ,1 170 000 ,NaN
+Ammerudhellinga 43, Oslo,70 ,3 200 000,2
+Nordåssløyfa 25B, Oslo,143 ,4 800 000,NaN
+Radarveien 55, Oslo,65 ,3 950 000,2
+Orrebakken 12, Oslo,404 ,34 900 000,4
+Ensjøveien 29c, Oslo,39 ,3 290 000,1
+Rugdestien 14, Oslo,428 ,37 000 000,6
+Gangstuveien 2A, Oslo,70 ,3 100 000,2
+Ensjøveien 29c, Oslo,55 ,3 900 000,1
+Nils Bays vei 35, Oslo,198 ,21 500 000,4
+Maria Dehlis vei 15, Oslo,64 ,2 850 000,1
+Barnehjemsveien 15, Oslo,68 ,5 100 000,2
+Trondheimsveien 139B, Oslo,87 ,6 250 000,2
+Brinken 16D, Oslo,42 ,3 890 000,1
+Frichs gate 3, Oslo,92 ,7 950 000,2
+Kirkeveien 114, Oslo,67 ,6 200 000,2
+Martin Skatvedts vei 5B, Oslo,64 ,3 300 000,2
+Treschows gate 17F, Oslo,49 ,4 200 000,1
+Ruseløkkveien 49, Oslo,58 ,5 700 000,1
+Rosteds gate 2A, Oslo,87 ,6 990 000,2
+Hoffsjef Løvenskiolds vei 2 M, Oslo,241 ,19 500 000,4
+Camilla Colletts vei 16, Oslo,115 ,10 900 000,2
+Stockfleths gate 54C, Oslo,66 ,5 850 000,3
+Filerveien 2, Oslo,65 ,3 790 000,2
+Dragonstien 97D, Oslo,62 ,3 000 000,1
+Stjerneblokkveien 9, Oslo,65 ,3 190 000,2
+Geitmyrsveien 73E, Oslo,61 ,5 150 000,2
+Aspehaugveien 10B, Oslo,273 ,13 990 000,5
+Ormøybakken 2, Oslo,129 ,12 500 000,3
+Kirkeåsveien 5E, Oslo,146 ,12 900 000,3
+Hellinga 18, Oslo,62 ,3 500 000,2
+Munkerudstubben 22B, Oslo,47 ,2 950 000,1
+Kantarellen terrasse 15, Oslo,59 ,2 590 000,1
+Normannsgata 34B, Oslo,97 ,10 700 000,3
+Østerliveien 43B, Oslo,68 ,4 500 000,2
+Sandstuveien 26 D, Oslo,122 ,11 500 000,3
+Ekebergveien 312, Oslo,114 ,6 500 000,3
+Ole Messelts vei 54C, Oslo,44 ,2 900 000,1
+Zetlitz' gate 2A, Oslo,103 ,8 190 000,2
+Møllefaret 54D, Oslo,157 ,9 790 000,4
+Olaf Bulls vei 40, Oslo,71 ,4 850 000,1
+Ullernchausséen 116B, Oslo,67 ,6 290 000,2
+Uranienborgveien 13, Oslo,27 ,3 390 000,1
+Gladvollveien 41, Oslo,61 ,4 200 000 ,NaN
+Sollerudveien 31C, Oslo,28 ,1 950 000,NaN
+Treskeveien 1, Oslo,70 ,4 000 000,2
+Schwachs gate 1, Oslo,89 ,8 800 000,3
+Dælenenggata 16A, Oslo,49 ,4 200 000,1
+Fernanda Nissens gate 1B, Oslo,80 ,8 900 000,3
+Bølerbakken 4, Oslo,67 ,3 190 000,2
+Platous gate 4F, Oslo,51 ,3 700 000,1
+Gregers Grams vei 6D, Oslo,202 ,16 200 000,4
+Sars' gate 46, Oslo,53 ,3 900 000,1
+Odvar Solbergs vei 40, Oslo,87 ,3 100 000,2
+Operagata 15, Oslo,84 ,12 490 000,2
+Stensgata 10A, Oslo,84 ,7 350 000,5
+Majorstuveien 15A, Oslo,150 ,13 800 000,3
+Lambertseterveien 35, Oslo,25 ,2 890 000,1
+Skjoldveien 36A, Oslo,157 ,16 000 000,4
+Rådyrstien 12, Oslo,110 ,5 650 000,3
+Eiriks gate 18, Oslo,36 ,3 450 000,1
+Ullern allé 103, Oslo,99 ,7 500 000,3
+Stiftamtmann Kaas' vei 3, Oslo,80 ,10 950 000,2
+Oskar Braatens gate 2, Oslo,69 ,4 550 000,2
+Langgata 47, Oslo,54 ,3 900 000,1
+Grusveien 40, Oslo,64 ,4 200 000,2
+Kristins vei 17, Oslo,70 ,4 100 000,2
+Vøyensvingen 16D, Oslo,29 ,3 400 000,1
+VIBES GATE 16 A, Oslo,75 ,7 300 000,2
+Aslaug Vaas veg 5D, Oslo,189 ,18 950 000,4
+Reichweins gate 6B, Oslo,115 ,10 000 000,2
+Ole Vigs gate 8B, Oslo,79 ,7 650 000,2
+St. Olavs gate 8A, Oslo,33 ,3 690 000,1
+Traverveien 29, Oslo,67 ,4 500 000,2
+Vibes gate 16C, Oslo,46 ,4 990 000,1
+Halvdan Svartes gate 2A, Oslo,133 ,11 490 000,2
+Bølerlia 28, Oslo,67 ,3 850 000,2
+Vallefaret 20, Oslo,52 ,4 000 000,1
+Myrerskogveien 15, Oslo,46 ,3 200 000,1
+Fernanda Nissens gate 3C, Oslo,60 ,5 850 000,2
+Majorstuveien 35A, Oslo,102 ,9 950 000,3
+Trosterudveien 36C, Oslo,250 ,17 250 000,4
+Sandakerveien 16A, Oslo,51 ,5 000 000,2
+Inkognito terrasse 5B, Oslo,93 ,9 600 000,2
+Seljeveien 27, Oslo,95 ,7 450 000,3
+Bjørnåsveien 23, Oslo,70 ,3 300 000,2
+Biermanns gate 9, Oslo,42 ,3 700 000,1
+Lillebergveien 3, Oslo,54 ,3 900 000,1
+Økern torgvei 9B, Oslo,74 ,3 700 000,2
+Per Kvibergs gate 28A, Oslo,71 ,6 700 000,2
+Colletts gate 76, Oslo,49 ,4 200 000,1
+Åsengata 32, Oslo,55 ,4 900 000,2
+Trondheimsveien 79, Oslo,54 ,3 990 000,1
+Myrerskogveien 28, Oslo,41 ,3 400 000,NaN
+Huk Aveny 58 F, Oslo,66 ,6 800 000 ,NaN
+Utmarkveien 13, Oslo,58 ,3 100 000,1
+Etterstadsletta 95A, Oslo,67 ,4 600 000,2
+Lillogata 5P, Oslo,80 ,6 490 000,2
+Bolteløkka allé 2, Oslo,77 ,7 990 000,2
+Seljeveien 31, Oslo,50 ,5 150 000,2
+Lindebergåsen 46H, Oslo,62 ,2 950 000,1
+Sigurd A. Danielsens vei 3E, Oslo,64 ,5 000 000,2
+Skjelderups gate 14 A, Oslo,59 ,4 700 000,1
+Presidentgata 3A, Oslo,39 ,3 850 000,1
+Lunden 38, Oslo,65 ,4 200 000,2
+Øvre Smestadvei 24B, Oslo,260 ,21 000 000,5
+Paal Bergs vei 171A, Oslo,63 ,4 200 000,2
+Haugerudveien 74, Oslo,59 ,3 400 000,1
+Gladvollveien 41, Oslo,61 ,4 200 000,2
+Tante Ulrikkes vei 48B, Oslo,70 ,3 200 000,2
+Niels juels gate 27, Oslo,65 ,6 290 000,2
+Thereses gate 19 B, Oslo,76 ,7 000 000,2
+Casparis gate 2, Oslo,83 ,6 500 000,3
+Sørbyhaugen 4, Oslo,368 ,18 950 000,4
+Skovveien 4, Oslo,12 ,1 400 000,NaN
+Klaus Torgårds vei 6A, Oslo,82 ,7 400 000,2
+Østerliveien 57A, Oslo,59 ,3 450 000,1
+Sandakerveien 10M, Oslo,33 ,3 650 000,1
+Sofies gate 12C, Oslo,95 ,8 450 000,3
+Jonsrudveien 1D, Oslo,63 ,6 500 000,1
+Solheimgata 1A, Oslo,111 ,10 690 000,3
+Bergkrystallen 5, Oslo,66 ,4 100 000,2
+Svingen 10 D, Oslo,81 ,7 900 000,2
+Vestlisvingen 82, Oslo,62 ,2 800 000,1
+Bergensveien 4A, Oslo,34 ,2 800 000,NaN
+Frydens gate 5 A, Oslo,60 ,4 990 000,2
+Selma Ellefsens vei 3D, Oslo,89 ,2 970 000,4
+Kalbakkveien 17, Oslo,72 ,3 400 000,3
+Valdresgata 19, Oslo,54 ,4 300 000,1
+Bergensgata 40 A, Oslo,84 ,7 700 000,2
+Jerikoveien 53A, Oslo,83 ,3 900 000,3
+Parkveien 64, Oslo,48 ,4 600 000,2
+St. Jørgens vei 65, Oslo,65 ,4 950 000,2
+Grefsenveien 94A, Oslo,52 ,3 950 000,1
+Stallerudveien 37, Oslo,138 ,7 500 000,3
+Folkvangveien 22C, Oslo,70 ,3 900 000,2
+Colletts gate 65, Oslo,56 ,4 900 000,2
+Ullernkollen 12, Oslo,210 ,19 500 000 ,NaN
+RØAKOLLEN HUS D TRINN 2 - Nye 3- og 4-roms borettslagsleiligheter, Oslo,66 ,3 200 000 ,NaN
+ Kikut hus C1, Oslo,109 ,10 400 000 ,NaN
+Fyrstikkbakken 14 - Bygg A, Oslo,32 ,1 300 000 ,NaN
+Sars' gate 52, Oslo,35 ,3 300 000,1
+Platous gate 2B, Oslo,49 ,3 900 000,2
+Enerhauggata 1, Oslo,35 ,3 450 000,NaN
+Ekebergveien 29 B (andel 26), Oslo,32 ,2 550 000,1
+Sporveisgata 8 A, Oslo,65 ,4 900 000 ,NaN
+Ekebergveien 29 B (andel 25), Oslo,30 ,2 800 000,1
+Prost Hallings vei 41 a, Oslo,49 ,3 490 000,2
+Solskinnsveien 17, Oslo,NaN,NaN,NaN
+Dr. Dedichens vei 114, Oslo,80 ,3 990 000,2
+Sveriges gate 15A, Oslo,52 ,4 500 000,1
+Kalbakkveien 13A, Oslo,70 ,3 450 000,2
+LÅVEVEIEN 52 B, Oslo,89 ,4 800 000,2
+Valdresgata 5, Oslo,54 ,4 190 000,1
+Sarpsborggata 1, Oslo,NaN,NaN,4
+Solheimgata 11, Oslo,81 ,7 990 000,3
+Nico Hambros vei 131, Oslo,58 ,2 990 000,1
+Ravnkollbakken 46, Oslo,84 ,2 850 000,3
+Thurmanns gate 16A, Oslo,67 ,5 000 000,3
+Etterstadkroken 7B, Oslo,54 ,3 800 000,1
+Birger Olivers vei 31, Oslo,231 ,13 900 000,6
+Kruttveien 4B, Oslo,74 ,5 600 000,2
+Pareliusveien 2B, Oslo,80 ,8 200 000,2
+Solveien 34, Oslo,357 ,27 500 000,5
+Skullerudveien 59, Oslo,56 ,3 450 000,2
+Oppsalveien 8, Oslo,204 ,14 900 000,NaN
+Jonas Dahls vei 41, Oslo,47 ,4 150 000,2
+Platous gate 6, Oslo,66 ,3 190 000,2
+Etterstadgata 11B, Oslo,45 ,3 880 000,1
+General Birchs gate 7B, Oslo,92 ,9 490 000,3
+Kranveien 2, Oslo,69 ,3 950 000,2
+Herslebs gate 14A, Oslo,105 ,7 200 000,3
+Vossegata 18A, Oslo,46 ,3 950 000,1
+Smalgangen 24, Oslo,66 ,4 800 000,2
+Pareliusveien 48, Oslo,320 ,27 000 000,4
+Malerhaugveien 25 - TRINN 3, Oslo,75 ,6 690 000,2
+Sigurds gate 20D, Oslo,48 ,3 950 000,2
+Maridalsveien 205, Oslo,36 ,2 800 000,NaN
+Drammensveien 54A, Oslo,89 ,8 850 000,2
+Flintoes gate 4, Oslo,72 ,6 200 000,2
+Radarveien 18, Oslo,65 ,3 900 000,2
+Åsdalsveien 3, Oslo,129 ,8 950 000,4
+Sjøgangen 2, Oslo,40 ,4 850 000,1
+Majorstuveien 17C, Oslo,87 ,7 950 000,2
+Einars vei 4, Oslo,41 ,3 650 000,1
+Sons gate 5 A, Oslo,54 ,4 990 000,1
+Turbinveien 42, Oslo,91 ,3 900 000,3
+Landingsveien 82, Oslo,57 ,4 100 000,1
+Selvbyggerveien 60, Oslo,35 ,3 200 000,1
+Etterstadsletta 63A, Oslo,67 ,4 800 000,2
+Midtveien 61, Oslo,36 ,2 000 000,1
+Kløfterhagen 9C, Oslo,102 ,4 500 000,3
+Cort Adelers gate 14, Oslo,64 ,5 700 000,2
+Toftes gate 19A, Oslo,66 ,5 850 000,2
+Vallegata 14B, Oslo,58 ,5 000 000,1
+Skogbrynet 37C, Oslo,78 ,6 290 000,2
+Maria Dehlis vei 15, Oslo,64 ,2 850 000 ,NaN
+Colletts gate 6B, Oslo,85 ,7 150 000,2
+Radarveien 38, Oslo,62 ,3 950 000,2
+Harald Sohlbergs vei 26, Oslo,91 ,3 800 000,2
+Sofienberggata 35G, Oslo,86 ,6 890 000,3
+Furuset allé 17E, Oslo,137 ,8 250 000,5
+Fyrstikkbakken 14 Hus C, Oslo,86 ,6 285 000 ,NaN
+ Torshovhøyden, Oslo,44 ,5 300 000 ,NaN
+Gustav Vigelands vei 46, Oslo,50 ,4 690 000,1
+Jarlsborgveien 5 1B, Oslo,141 ,13 500 000,4
+Brettevilles gate 7, Oslo,54 ,4 200 000,1
+Thorvald Meyers gate 14, Oslo,42 ,4 250 000,1
+Ulvenveien 119C, Oslo,72 ,3 990 000,2
+Ris skolevei 2, Oslo,229 ,15 800 000,6
+Grandeveien 2A, Oslo,269 ,25 000 000,3
+Rådhusgata 21, Oslo,40 ,4 000 000,1
+Bjørn Farmanns gate 14B, Oslo,79 ,6 790 000,2
+Welhavens gate 10, Oslo,69 ,6 250 000,2
+Ullevålsveien 97C, Oslo,57 ,4 690 000,2
+Oskar Braatens gate 4 A, Oslo,47 ,3 950 000,1
+Haugerudveien 89, Oslo,60 ,3 950 000,2
+Olaf Bulls vei 12, Oslo,65 ,4 075 000,1
+Holmenkollveien 129A, Oslo,360 ,19 000 000,5
+Thereses gate 13 B, Oslo,77 ,7 490 000,2
+Uranienborgveien 29, Oslo,21 ,2 390 000,NaN
+Hans Nordahls gate 18, Oslo,46 ,4 800 000,1
+Urtegata 48A, Oslo,97 ,9 250 000,3
+Fossveien 13A, Oslo,45 ,4 390 000,1
+Hellerudstubben 20B, Oslo,90 ,5 900 000,3
+Sophus Lies gate 10, Oslo,117 ,11 950 000,2
+Ullernchausséen 110, Oslo,167 ,8 500 000,4
+Finnmarkgata 42, Oslo,56 ,3 750 000,1
+Ingeniørveien 6, Oslo,76 ,3 030 000,2
+Birger Olivers vei 12 A, Oslo,88 ,7 490 000,2
+Lindeberglia 26, Oslo,33 ,2 500 000,NaN
+Johan Sverdrups vei 33A, Oslo,168 ,11 500 000,3
+Anna Sethnes gate 2D, Oslo,39 ,3 640 000,NaN
+Sons gate 7A, Oslo,70 ,5 500 000,3
+Freserveien 29, Oslo,95 ,5 359 000,2
+Akerlia 23, Oslo,65 ,3 450 000,2
+Telemarksvingen 10, Oslo,47 ,3 950 000,1
+Frederik Stangs gate 35, Oslo,39 ,4 350 000,1
+Skullerudskogen 19 D, Oslo,44 ,2 450 000,1
+Casparis gate 5, Oslo,57 ,4 930 000,2
+Jerpefaret 8E, Oslo,164 ,12 200 000,5
+Høybråtenveien 1F, Oslo,82 ,3 100 000,2
+Agmund Bolts vei 11, Oslo,61 ,3 590 000,2
+Sigurd Hoels vei 15, Oslo,47 ,4 390 000,1
+Brattvollveien 22, Oslo,67 ,4 200 000,2
+Lindebergåsen 66C, Oslo,48 ,3 000 000,1
+Grusveien 44, Oslo,72 ,4 590 000,3
+Gunnar Schjelderups vei 11C, Oslo,67 ,5 900 000 ,NaN
+Fagerliveien 35, Oslo,153 ,11 500 000,2
+Thomas Heftyes gate 60A, Oslo,142 ,12 950 000,3
+Waldemar Thranes gate 65C, Oslo,65 ,6 200 000,2
+Marstrandgata 15, Oslo,48 ,3 500 000,1
+Mina Beiteplukksvei 155A, Oslo,52 ,2 990 000,2
+Fagerheimgata 14B, Oslo,47 ,4 275 000,1
+Stensgata 38A, Oslo,72 ,6 250 000,2
+Vækerøveien 118 A, Oslo,64 ,4 800 000,1
+Huitfeldts gate 15, Oslo,54 ,6 650 000,1
+Peter Møllers vei 6A, Oslo,85 ,7 500 000,3
+Huitfeldts gate 15, Oslo,74 ,7 990 000,2
+Maridalsveien 154A, Oslo,51 ,3 850 000,1
+Mellombølgen 20, Oslo,54 ,3 250 000,1
+Maridalsveien 236, Oslo,98 ,6 100 000,2
+Ensjøveien 4 (Tøyentaket bygg A), Oslo,34 ,1 147 500 ,NaN
+ Torshovhøyden, Oslo,78 ,10 000 000 ,NaN
+Slyngveien 6b, Oslo,174 ,13 900 000,5
+Malerhaugveien 34F, Oslo,74 ,5 650 000,3
+Spireaveien 4E, Oslo,62 ,5 800 000,2
+Ullernchausséen 110, Oslo,107 ,7 500 000,4
+Bergstien 11B, Oslo,48 ,4 600 000,1
+Bryggetorget 11, Oslo,98 ,13 250 000,2
+Sondrevegen 6 B, Oslo,205 ,17 950 000,5
+Hasleveien 1A, Oslo,63 ,5 900 000,2
+Grefsenkollveien 14E, Oslo,84 ,5 030 000,3
+Thereses gate 35B, Oslo,31 ,2 600 000,NaN
+Birger Olivers vei 24B, Oslo,97 ,7 290 000,NaN
+Agathe Grøndahls gate 44, Oslo,136 ,11 500 000,3
+Hans Nielsen Hauges gate 15B, Oslo,50 ,3 350 000,1
+Langes gate 4, Oslo,36 ,3 690 000,1
+Krafts gate 2B, Oslo,65 ,6 300 000,2
+Nils Bays vei 36, Oslo,66 ,6 000 000,2
+Harald Sohlbergs vei 4, Oslo,73 ,3 370 000,2
+Sørengkaia, Oslo,11 ,790 000,NaN
+Grindbakken 42, Oslo,88 ,6 350 000,2
+Drammensveien 61D, Oslo,65 ,5 800 000,2
+Fugleliveien 17A, Oslo,221 ,10 200 000,4
+Trudvangveien 41, Oslo,67 ,6 800 000,1
+FREDENSBORGVEIEN 43, Oslo,40 ,5 100 000,1
+Minister Ditleffs vei 11A, Oslo,34 ,3 000 000,NaN
+St. Jørgens vei 19, Oslo,64 ,4 655 000,2
+Grefsenveien 6C, Oslo,22 ,2 750 000,NaN
+Lørenveien 64A, Oslo,62 ,3 500 000,2
+Sofies gate 10B, Oslo,36 ,3 990 000,1
+Trondheimsveien 162A, Oslo,56 ,3 900 000,1
+Turbinveien 17, Oslo,67 ,3 320 000,2
+Fernanda Nissens gate 6B, Oslo,67 ,6 700 000,2
+Teisenveien 43, Oslo,31 ,2 800 000,1
+Hoffsveien 61H, Oslo,62 ,4 990 000,2
+Underhaugsveien 1B, Oslo,72 ,5 400 000,2
+Othilie Tonnings vei 3, Oslo,72 ,4 800 000 ,NaN
+Vilbergveien 1C, Oslo,99 ,7 500 000,3
+Erling Skjalgssons gate 34B, Oslo,72 ,6 890 000,1
+Mor Go´ hjertas vei 23, Oslo,23 ,2 590 000,1
+Grønvoll Allè 28, Oslo,46 ,4 200 000,1
+Christian Michelsens gate 1 A, Oslo,80 ,5 590 000,4
+Bertrand Narvesens vei 9, Oslo,42 ,3 750 000,1
+Lillebergveien 10, Oslo,63 ,4 950 000,2
+Bøkkerveien 24C, Oslo,58 ,5 250 000,2
+Bestumveien 37 H, Oslo,45 ,4 090 000,1
+Sandakerveien 74 A, Oslo,70 ,5 795 000,2
+Hans Nordahls gate 44, Oslo,83 ,8 990 000,2
+Frydenbergveien 46D, Oslo,40 ,3 990 000,1
+Skullerudveien 57, Oslo,47 ,3 100 000,1
+Hammergata 18 A, Oslo,33 ,3 200 000,1
+Herslebs gate 11, Oslo,62 ,4 600 000,1
+Hovseterveien 68J, Oslo,26 ,2 590 000,NaN
+Sigurds gate 20D, Oslo,35 ,3 690 000,1
+Langes gate 6, Oslo,37 ,2 850 000,1
+Sandakerveien 50 A, Oslo,56 ,4 900 000,2
+Frysjaveien 25A, Oslo,84 ,6 750 000,3
+Sørengkaia 70, Oslo,58 ,5 900 000,2
+Kurveien 17, Oslo,68 ,5 500 000,1
+Furuveien 26, Oslo,201 ,13 750 000,4
+Bentsebrugata 16F, Oslo,52 ,4 500 000,1
+Ebbells gate 5A, Oslo,37 ,2 620 000,1
+Torshovgata 15 G, Oslo,37 ,3 500 000,1
+Fridtjof Nansens vei 5C, Oslo,73 ,9 200 000,2
+Grefsenveien 28, Oslo,75 ,5 480 000,2
+Freserveien 45, Oslo,112 ,8 100 000,2
+Sloreåsen 12B, Oslo,76 ,4 500 000,2
+Skjelderups gate 15B, Oslo,40 ,4 400 000,1
+Gunnulvs vei 16, Oslo,66 ,3 450 000,2
+Giskehagen 36, Oslo,141 ,13 200 000,3
+Eckersbergs gate 55, Oslo,107 ,14 800 000,2
+Frysjaveien 17C, Oslo,66 ,4 750 000,2
+John Colletts allé 7, Oslo,85 ,10 350 000,2
+Lavrans vei 2, Oslo,68 ,3 700 000,2
+Ullevålsveien 57, Oslo,69 ,5 350 000,2
+Sofies gate 48, Oslo,100 ,10 490 000,3
+Ekebergveien 152D, Oslo,121 ,9 900 000,3
+Munkedamsveien 84B, Oslo,60 ,6 500 000,2
+Vækerøveien 130C, Oslo,98 ,7 800 000,2
+Enerhauggata 3, Oslo,73 ,5 900 000,2
+Bernt Ankers gate 31, Oslo,71 ,6 500 000,2
+Rosenlundgata 6B, Oslo,41 ,3 990 000,1
+Nedre Vaskegang 2, Oslo,58 ,5 100 000,2
+ Kikut hus C3 - trinn 5 - Visningssenter i Frysjaveien 44 for alle trinn, Oslo,132 ,17 500 000,4
+Beverveien 7, Oslo,86 ,3 200 000,3
+Peter Møllers vei 2B, Oslo,56 ,5 200 000,2
+Høybråtenveien 3E, Oslo,103 ,4 100 000,4
+Lørenveien 44 A, Oslo,73 ,5 700 000 ,NaN
+Skovveien 4, Oslo,74 ,7 700 000,2
+Snippen 2, Oslo,86 ,7 790 000,3
+Oppsalstubben 1B, Oslo,39 ,3 300 000,1
+Eckersbergs gate 33B, Oslo,48 ,5 690 000,2
+Pilestredet Park 11A, Oslo,28 ,3 800 000,1
+Frederik Glads gate 22C, Oslo,50 ,3 950 000,2
+Sørligata 2A, Oslo,71 ,4 990 000,2
+Radarveien 34, Oslo,53 ,3 300 000,1
+Dyretråkket 34, Oslo,92 ,3 400 000,3
+Ullevålsveien 110 B, Oslo,51 ,4 650 000,1
+Torggata 27, Oslo,84 ,6 500 000,5
+HELLINGA 8, Oslo,97 ,6 850 000,3
+Brobekkveien 55D, Oslo,112 ,10 000 000,3
+Holmenveien 16, Oslo,100 ,9 800 000,2
+Nils Huus' gate 6, Oslo,24 ,1 690 000,1
+Ravnkollbakken 39, Oslo,81 ,2 950 000,2
+Kristiansands gate 11B, Oslo,60 ,4 600 000,2
+Gladengveien 6B, Oslo,72 ,3 940 000,2
+Østreheimsveien 38, Oslo,70 ,6 300 000,2
+Tuengen allé 1A, Oslo,156 ,28 000 000,3
+Prost Hallings vei 39 A, Oslo,23 ,2 610 000,NaN
+Maries gate 9A, Oslo,59 ,4 980 000,3
+Svingen 10E, Oslo,107 ,7 690 000,2
+Magnus' gate 7, Oslo,75 ,5 700 000,2
+Nordkappgata 31, Oslo,52 ,4 400 000,2
+Bredes vei 23B, Oslo,157 ,7 650 000,3
+Doktor Holms vei 4G, Oslo,232 ,21 000 000,NaN
+Sinsenterrassen 18, Oslo,46 ,3 650 000,1
+Norbygata 17, Oslo,58 ,3 950 000,1
+Erling Skjalgssons gate 20A, Oslo,74 ,6 600 000,2
+Snargangen 2B, Oslo,100 ,8 790 000,2
+Welding Olsens vei 2, Oslo,119 ,8 000 000,3
+St. Jørgens vei 2, Oslo,54 ,3 700 000,1
+Einars vei 3, Oslo,75 ,7 200 000,2
+Rektorhaugen 37, Oslo,57 ,4 500 000,1
+Balders gate 1A, Oslo,57 ,5 480 000,2
+Platous gate 2B, Oslo,35 ,3 100 000,1
+Maria Dehlis vei 38B, Oslo,93 ,3 500 000,2
+Åsengata 7 B, Oslo,61 ,4 500 000,1
+Skøyenveien 91, Oslo,81 ,6 990 000,2
+Krokliveien 42, Oslo,51 ,3 650 000,1
+St. Halvards gate 67, Oslo,62 ,3 990 000,2
+Tvetenveien 253, Oslo,59 ,3 300 000,2
+Sorgenfrigata 19 A, Oslo,118 ,11 800 000,1
+Frederik Glads gate 1, Oslo,72 ,4 950 000,3
+Thorvald Meyers gate 48 A, Oslo,38 ,3 550 000,1
+Herregårdsveien 8B, Oslo,35 ,2 850 000,1
+Haugerudveien 78, Oslo,45 ,2 990 000,1
+Gyldenløves gate 42, Oslo,230 ,40 000 000,3
+Sverres gate 10, Oslo,53 ,4 700 000,1
+Arnljot Gellines vei 35, Oslo,69 ,4 550 000 ,NaN
+St. Halvards gate 25E, Oslo,48 ,3 850 000,1
+Askergata 1, Oslo,66 ,4 900 000,1
+Vestlisvingen 104, Oslo,91 ,3 990 000,3
+Bukken Bruses vei 6, Oslo,237 ,19 500 000,4
+Stensberggata 15A, Oslo,132 ,9 950 000,3
+Åkebergveien 38 A, Oslo,57 ,3 950 000,2
+Industrigata 61, Oslo,57 ,5 950 000,1
+Christian Krohgs gate 28A, Oslo,38 ,3 590 000,1
+Middelthuns gate 14, Oslo,81 ,8 100 000,2
+Husebybakken 1C, Oslo,17 ,2 190 000,NaN
+Eugenies gate 17, Oslo,33 ,3 990 000,1
+Thurmanns gate 10B, Oslo,81 ,7 400 000,3
+Sjøgata 4, Oslo,68 ,7 800 000,1
+Fauchalds gate 3A, Oslo,75 ,5 850 000,2
+ rett over gaten for Sagene folkebad., Oslo,58 ,5 200 000,2
+Hans Nielsen Hauges gate 37A, Oslo,73 ,7 100 000,2
+Fredensborgveien 47, Oslo,43 ,3 990 000,1
+Jacob Aalls gate 18, Oslo,40 ,3 790 000,1
+Olav Nygards veg 57, Oslo,63 ,3 700 000,2
+Grenseveien 30E, Oslo,38 ,3 450 000,1
+Skansen terrasse 28, Oslo,84 ,3 400 000,2
+Grønnegata 13A, Oslo,46 ,3 790 000,1
+Nordlisletta 11, Oslo,70 ,3 450 000,2
+Stolmakergata 9H, Oslo,78 ,7 200 000,2
+Sørengkaia 80, Oslo,140 ,17 500 000,3
+Nobels gate 21B, Oslo,59 ,4 750 000,1
+Hjelms gate 7 A, Oslo,77 ,5 790 000,3
+Orknøygata 8B, Oslo,65 ,5 500 000,2
+Sporveisgata 4, Oslo,45 ,4 950 000,1
+Åsengata 17, Oslo,67 ,5 000 000,1
+Hjelms gate 7 A, Oslo,25 ,2 950 000,1
+Professor Dahls gate 16, Oslo,41 ,4 500 000,1
+Bergstien 16C, Oslo,54 ,4 500 000,1
+Lindebergåsen 27, Oslo,92 ,3 600 000,3
+Marcus Thranes gate 4L, Oslo,53 ,4 700 000,1
+Rubina Ranas gate 5, Oslo,50 ,3 750 000,2
+Seljeveien 21, Oslo,74 ,7 300 000,3
+Olav Nygards veg 51, Oslo,53 ,3 400 000,1
+PLOGVEIEN 65 A, Oslo,112 ,6 500 000,3
+Observatorie terrasse 15C, Oslo,89 ,7 750 000,3
+Helgesens gate 12F, Oslo,46 ,3 990 000,1
+Teglverksgata 11, Oslo,68 ,5 300 000,1
+Griffenfeldts gate 19 D, Oslo,57 ,4 000 000,1
+Kirkeveien 77B, Oslo,122 ,10 290 000,2
+Karlsborgveien 3a, Oslo,97 ,5 490 000,1
+Sognsveien 4, Oslo,107 ,8 500 000,3
+Fyrstikkalléen 12A, Oslo,86 ,6 300 000,2
+Krokliveien 35, Oslo,66 ,4 200 000,3
+Martin Skatvedts vei 29, Oslo,111 ,6 500 000,4
+Karl Staaffs vei 72, Oslo,65 ,4 000 000,3
+Herslebs gate 11, Oslo,62 ,4 600 000 ,NaN
+Trudvangveien 23, Oslo,49 ,4 000 000,1
+Kristine Bonnevies vei 15, Oslo,52 ,3 800 000,1
+Gunnar Schjelderups vei 11C, Oslo,67 ,5 900 000,2
+Sofienberggata 54 C, Oslo,52 ,3 900 000,2
+Telthusbakken 1, Oslo,210 ,16 900 000,3
+Frantzebråtveien 5, Oslo,128 ,13 250 000,3
+Spikerveien 16B, Oslo,77 ,8 500 000,2
+Hagastubben 15B, Oslo,89 ,4 500 000,NaN
+Ullevålsveien 17, Oslo,108 ,8 250 000,3
+Åsstubben 19, Oslo,66 ,5 750 000,1
+Urtegata 14, Oslo,34 ,1 830 000,NaN
+Garver Ytteborgs vei 111A, Oslo,84 ,3 100 000,3
+Dælenenggata 14B, Oslo,40 ,3 690 000,1
+Tante Ulrikkes vei 49, Oslo,84 ,3 200 000,2
+Bjerregaards gate 41, Oslo,91 ,7 200 000,2
+Munthes gate 25A, Oslo,124 ,15 000 000,3
+Hedmarksgata 8A, Oslo,56 ,4 090 000,1
+Turbinveien 13, Oslo,59 ,4 970 000,2
+Ullevålsveien 58A, Oslo,155 ,12 950 000,3
+Sandefjordgata 3B, Oslo,52 ,4 300 000,1
+Tvetenveien 231, Oslo,59 ,3 300 000,2
+Trondheimsveien 83A, Oslo,58 ,4 200 000,1
+Welhavens gate 2B, Oslo,76 ,6 300 000,2
+Bjerregaards gate 24A, Oslo,58 ,5 490 000,2
+Helgesens gate 82C, Oslo,64 ,5 100 000,2
+Gamle Enebakkvei 121, Oslo,46 ,2 980 000,1
+Dalsbergstien 22 A, Oslo,73 ,7 100 000,2
+Nydalen Allé 27, Oslo,67 ,6 200 000,2
+Othilie Tonnings vei 3, Oslo,72 ,4 800 000,2
+Gunnar Schjelderups vei 11 L, Oslo,106 ,8 700 000,3
+Krumgata 6 A, Oslo,61 ,5 990 000,1
+Heggelibakken 53, Oslo,95 ,10 950 000,2
+Paal Bergs vei 17, Oslo,69 ,4 500 000,3
+Sollerudveien 2 d, Oslo,91 ,7 200 000,3
+Lørenveien 35, Oslo,57 ,5 250 000,2
+Nedre Prinsdals vei 59C, Oslo,65 ,2 800 000,2
+Thereses gate 35B, Oslo,14 ,1 850 000,NaN
+Sørengkaia 39, Oslo,120 ,11 500 000,3
+Mekanikerveien 17, Oslo,67 ,3 990 000,2
+Frederik Glads gate 1, Oslo,35 ,3 190 000,1
+Ravnkollbakken 39, Oslo,81 ,2 850 000,3
+Gunnar Schjelderups vei 11 S, Oslo,90 ,9 100 000,2
+Uranienborg Terrasse 13A, Oslo,164 ,24 600 000,2
+Mauritz Hansens gate 5, Oslo,112 ,9 990 000,2
+Hallings gate 1 A, Oslo,91 ,8 200 000,3
+Vålerenggata 2 B, Oslo,87 ,7 500 000,3
+Tennisveien 23 B, Oslo,156 ,18 750 000,3
+Schives gate 3A, Oslo,62 ,6 290 000,1
+Øvre Skogvei 14B, Oslo,280 ,23 000 000,4
+Ole Brumms vei 42, Oslo,31 ,2 590 000,NaN
+Ullevålsveien 97C, Oslo,57 ,4 690 000 ,NaN
+Sorgenfrigata 34, Oslo,90 ,10 490 000,2
+Fauchalds gate 9B (Indre gårdsrom), Oslo,33 ,3 000 000,1
+Rosenborggata 15B, Oslo,64 ,5 250 000,2
+Beddingen 2, Oslo,70 ,13 500 000,1
+Lørenveien 44 A, Oslo,73 ,5 700 000,2
+Hasleveien 15A, Oslo,30 ,3 150 000,NaN
+Fernanda Nissens gate 2a, Oslo,94 ,8 650 000,3
+Waldemar thranes gate 72A, Oslo,30 ,3 000 000,NaN
+Malerhaugveien 25 - TRINN 2, Oslo,75 ,6 090 000 ,NaN
+Vollebekk - Humla Brl - salgstrinn 3 - Visningssenter i Brobekkveien 60, Oslo,59 ,2 685 000 ,NaN
+Gjerdrums vei 9, Oslo,149 ,13 450 000 ,NaN
+Sofienberggata 25A, Oslo,46 ,5 200 000,1
+Kalbakkslyngen 16, Oslo,54 ,2 900 000,1
+Grusveien 24, Oslo,63 ,3 900 000,2
+Holtveien 25, Oslo,122 ,9 500 000,2
+Østerliveien 66 A, Oslo,68 ,3 600 000,2
+Arnljot Gellines vei 35, Oslo,33 ,3 000 000,1
+Michel Nielsens vei 12, Oslo,90 ,10 950 000,3
+Iduns gate 3 C, Oslo,72 ,6 250 000,2
+Ørakerveien 3B, Oslo,160 ,11 000 000,5
+Vitaminveien 2, Oslo,51 ,4 500 000,1
+Galgeberg 3 F, Oslo,38 ,2 950 000,NaN
+Dælenenggata 25, Oslo,55 ,4 590 000,1
+Lillebergsvingen 1, Oslo,66 ,5 050 000,3
+Thorvald Meyers gate 60B, Oslo,50 ,4 690 000,1
+Nydalen allé 29, Oslo,86 ,8 290 000,3
+Marcus Thranes gate 7, Oslo,18 ,2 550 000,1
+Sandakerveien 22C, Oslo,79 ,8 300 000,2
+Camilla Colletts vei 9B, Oslo,154 ,15 750 000,3
+Sandakerveien 22 B, Oslo,83 ,7 990 000,2
+Thorvald Meyers gate 5, Oslo,29 ,3 000 000,1
+Bjerregaards gate 37B, Oslo,55 ,4 890 000,1
+Kristins vei 24, Oslo,72 ,4 100 000,2
+Lofsrudhøgda 101A, Oslo,90 ,4 700 000,3
+Bølerlia 14, Oslo,68 ,3 990 000,2
+Maridalsveien 196, Oslo,38 ,3 400 000,1
+Tøyengata 37B, Oslo,41 ,3 550 000,2
+Fyrstikkalléen 15B, Oslo,63 ,4 750 000,2
+Pilestredet Park 12B, Oslo,57 ,3 480 000,2
+Paal Bergs vei 18, Oslo,56 ,3 200 000,1
+Casparis gate 7, Oslo,57 ,3 450 000,2
+Hedmarksgata 12, Oslo,61 ,5 000 000,2
+Inges gate 4F, Oslo,47 ,3 400 000,1
+Hesselbergs gate 6B, Oslo,17 ,2 900 000,NaN
+Pilestredet Park 39, Oslo,32 ,3 560 000,NaN
+Erling Michelsens vei 21 G, Oslo,86 ,4 000 000,2
+Haakon den godes vei 6D, Oslo,357 ,30 000 000,5
+Bjerregaards gate 9B, Oslo,41 ,3 950 000,1
+Årvollveien 58F, Oslo,74 ,5 800 000,3
+Schweigaards gate 79B, Oslo,85 ,5 990 000,2
+Gladvollveien 41, Oslo,61 ,4 200 000 ,NaN
+St. Jørgens vei 1, Oslo,63 ,4 700 000,2
+Øvrefoss 14C, Oslo,79 ,7 200 000,2
+Kongsberggata 4, Oslo,60 ,5 000 000,2
+Frederik Glads gate 24A, Oslo,64 ,4 200 000,2
+Markveien 23B, Oslo,62 ,6 200 000,2
+Ebbells gate 3B, Oslo,38 ,3 550 000,1
+Munkedamsveien 66, Oslo,35 ,3 990 000,1
+Jørgen Løvlands gate 22C, Oslo,37 ,2 470 000,NaN
+Peter Møllers vei 35, Oslo,42 ,3 990 000,1
+Sinsenveien 18, Oslo,48 ,4 100 000,2
+Kyrre Grepps gate 14, Oslo,49 ,4 050 000,1
+Stasjonsveien 55B, Oslo,74 ,7 200 000,2
+Trondheimsveien 93, Oslo,35 ,3 300 000,1
+Thomas Heftyes gate 34, Oslo,119 ,10 500 000,3
+Gamle Enebakkvei 69, Oslo,52 ,3 400 000,2
+Framnesveien 8A, Oslo,122 ,10 390 000,2
+Mina Beiteplukksvei 19, Oslo,132 ,5 450 000,4
+Utmarkveien 13, Oslo,62 ,3 390 000,1
+Glimmerveien 38, Oslo,65 ,4 100 000,2
+Stockholmgata 14, Oslo,81 ,7 000 000,3
+Haugerudveien 43, Oslo,122 ,6 750 000,3
+Haugerudveien 84, Oslo,54 ,3 300 000,1
+Tvetenveien 231, Oslo,59 ,3 300 000,2
+Ragna Nielsens vei 15, Oslo,66 ,5 000 000,2
+Seilduksgata 28B, Oslo,45 ,4 200 000,1
+Smeltedigelen 6, Oslo,45 ,2 800 000,1
+Skiferveien 2, Oslo,65 ,3 950 000,NaN
+Wessels gate 16, Oslo,123 ,12 800 000,3
+Dr. Dedichens vei 76, Oslo,59 ,3 390 000,1
+Granstangen 38B, Oslo,58 ,2 800 000,2
+Sofies gate 66 A, Oslo,55 ,4 990 000,1
+Kirkeveien 112 C, Oslo,70 ,5 650 000,2
+Gladengveien 15 D, Oslo,66 ,5 490 000,2
+Nordtvetveien 11, Oslo,70 ,3 800 000,2
+Lunden 9 A, Oslo,39 ,3 400 000,1
+Motzfeldts gate 21, Oslo,62 ,4 850 000,2
+Sandakerveien 88, Oslo,86 ,9 500 000,3
+Håvalds vei 8A, Oslo,88 ,4 950 000,3
+Utmarkveien 23, Oslo,67 ,4 000 000,2
+Hertug Skules gate 8, Oslo,60 ,4 000 000,1
+Torshovgata 37, Oslo,67 ,5 900 000,2
+Nils Huus' gate 11, Oslo,70 ,5 800 000,2
+Luftfartsveien 4, Oslo,73 ,5 400 000,2
+Torshovgata 8 C, Oslo,66 ,4 400 000,2
+Waldemar Thranes gate 32C, Oslo,75 ,7 500 000,2
+Vøyensvingen 1 A, Oslo,62 ,5 950 000,2
+Åkebergveien 56 A, Oslo,38 ,3 200 000,1
+Aschehougs vei 6, Oslo,91 ,7 900 000,4
+Maridalsveien 344A, Oslo,115 ,13 000 000,3
+Sørengkaia 51, Oslo,72 ,8 490 000,2
+Vogts gate 31 B, Oslo,66 ,5 500 000 ,NaN
+Schønings gate 34, Oslo,28 ,3 250 000,NaN
+Norbygata 50A, Oslo,34 ,3 600 000,1
+Gunnar Schjelderups vei 11 K, Oslo,53 ,4 600 000,1
+Kjølberggata 1 F, Oslo,52 ,3 700 000,1
+Sigurd Hoels vei 102, Oslo,98 ,8 500 000,4
+Sandakerveien 22 H, Oslo,119 ,16 800 000,3
+Normannsgata 4, Oslo,36 ,3 650 000,1
+Københavngata 4B, Oslo,53 ,4 150 000,1
+Sunnmørgata 1A, Oslo,31 ,3 425 000,NaN
+Edvard Griegs allé 7 A, Oslo,69 ,5 500 000,2
+Libakkfaret 8A, Oslo,66 ,4 000 000,2
+Sandakerveien 90, Oslo,87 ,9 600 000,3
+Frysjaveien 42P, Oslo,90 ,8 500 000,3
+Langes gate 7, Oslo,82 ,6 800 000,1
+Københavngata 14C, Oslo,35 ,3 600 000,1
+Casparis gate 9, Oslo,38 ,3 700 000,1
+Plogveien 10, Oslo,69 ,4 090 000,2
+Bestumveien 39B, Oslo,34 ,2 980 000,1
+Jess Carlsens gate 6, Oslo,76 ,5 800 000,2
+Brochmanns gate 8D, Oslo,52 ,4 000 000,1
+Frydenlundgata 9, Oslo,104 ,8 900 000,2
+Inkognito Terrasse 3, Oslo,148 ,14 200 000,4
+Sjøgata 4, Oslo,55 ,5 950 000,1
+Solemskogveien 4, Oslo,47 ,3 500 000,1
+Mellombølgen 70, Oslo,63 ,3 700 000,2
+Sletteløkka 26B, Oslo,67 ,3 500 000,2
+Selvbyggerveien 64, Oslo,39 ,2 780 000,NaN
+Maridalsveien 33M, Oslo,22 ,2 890 000,NaN
+Traverveien 13, Oslo,67 ,4 190 000,2
+Beverveien 12, Oslo,84 ,3 750 000,3
+Dynekilgata 19C, Oslo,44 ,3 650 000,1
+Væringkleiva 1, Oslo,38 ,3 250 000,1
+Birger Olivers vei 29B, Oslo,127 ,9 000 000,3
+Brolandsveien 9 D, Oslo,145 ,9 750 000,4
+Aslakveien 16A, Oslo,49 ,3 950 000,1
+Trondheimsveien 161, Oslo,52 ,3 300 000,1
+Ravnkollbakken 26, Oslo,85 ,3 250 000,3
+Gunnulvs vei 32, Oslo,85 ,3 990 000,3
+Waldemars hage 2, Oslo,61 ,5 890 000,2
+Antenneveien 18, Oslo,66 ,3 950 000,2
+Tevlingveien 11 B, Oslo,70 ,4 590 000 ,NaN
+Bekkevollveien 12D til G, Oslo,162 ,8 700 000 ,NaN
+Emil Korsmos vei 7, Oslo,54 ,3 690 000,2
+Bakkerudveien 20, Oslo,86 ,7 200 000,3
+Lars husmanns gate 19, Oslo,41 ,1 930 000,1
+Jens Bjelkes gate 4 B, Oslo,58 ,5 690 000,1
+Valhallveien 25, Oslo,103 ,9 500 000,3
+Christian Michelsens gate 27, Oslo,55 ,4 390 000,2
+Smålensgata 16, Oslo,79 ,5 200 000,2
+St. Halvards gate 22, Oslo,83 ,7 370 000,3
+Bergensgata 40 A, Oslo,84 ,7 700 000 ,NaN
+Trondheimsveien 440B, Oslo,59 ,3 000 000,2
+Haugerudhagan 85, Oslo,97 ,5 500 000,3
+Toftes gate 4, Oslo,57 ,5 490 000,2
+Valhallveien 11B, Oslo,119 ,8 100 000,3
+Bernt Ankers gate 10B, Oslo,71 ,6 200 000,2
+Dovresvingen 39, Oslo,171 ,12 750 000,5
+Øvre Smestadvei 51D, Oslo,160 ,12 890 000,3
+Grønlandsleiret 81, Oslo,76 ,6 200 000,3
+Lindebergåsen 36B, Oslo,97 ,5 200 000,3
+Seterbråtveien 95, Oslo,60 ,2 990 000,2
+Hellerudgrenda 13A, Oslo,73 ,5 300 000,2
+Jarlsborgveien 12B, Oslo,142 ,7 600 000,2
+Solåsveien 17C, Oslo,217 ,15 500 000,5
+Hellerudveien 69F, Oslo,75 ,5 500 000,3
+Bølerlia 13, Oslo,79 ,5 100 000,3
+Fredensborgveien 4B, Oslo,36 ,4 100 000,1
+Sinsenveien 46, Oslo,NaN,NaN,3
+Hesselbergs gate 8 A, Oslo,30 ,3 300 000,NaN
+Neuberggata 29A, Oslo,130 ,12 350 000,3
+Grimelundsveien 2 B, Oslo,NaN,NaN,NaN
+Glimmerveien 5, Oslo,63 ,4 100 000,2
+Waldemar Thranes gate 64C, Oslo,52 ,4 700 000,1
+Urtestien 7B, Oslo,141 ,9 850 000,4
+Hoffsjef Løvenskiolds vei 75E, Oslo,212 ,16 750 000,5
+Keysers gate 4, Oslo,23 ,2 850 000,1
+Agmund Bolts vei 56, Oslo,61 ,3 650 000,2
+Schweigaards gate 99B, Oslo,41 ,3 950 000,2
+Betzy Kjelsbergs vei 15, Oslo,53 ,3 900 000,1
+Etterstadgata 30C, Oslo,18 ,1 950 000,NaN
+Brochmanns gate 9, Oslo,88 ,9 900 000,2
+Sørengkaia 106, Oslo,70 ,7 900 000,2
+Hans Nordahls gate 46, Oslo,50 ,4 650 000,1
+Markveien 2, Oslo,76 ,6 350 000,2
+Binneveien 13B, Oslo,311 ,23 500 000,5
+Dalsbergstien 22A, Oslo,73 ,6 500 000,2
+Urtegata 36A, Oslo,48 ,3 990 000,1
+Ullernkammen 26, Oslo,176 ,11 900 000,4
+Martin Skatvedts vei 2, Oslo,37 ,2 590 000,1
+Hans Nielsen Hauges gate 4, Oslo,61 ,4 500 000,1
+Damfaret 54A, Oslo,163 ,10 950 000,5
+Hovseterveien 84D, Oslo,53 ,3 500 000,1
+Arnebråtveien 81B, Oslo,125 ,10 700 000,4
+Landingsveien 13, Oslo,73 ,4 900 000,2
+Sturlas vei 1B, Oslo,189 ,12 900 000,4
+Skovveien 5, Oslo,155 ,14 500 000,2
+Bekkevollveien 9 B, Oslo,141 ,8 600 000,4
+Konghellegata 10, Oslo,125 ,8 000 000,2
+Schleppegrells gate 16B, Oslo,102 ,9 000 000,4
+Hammerstads gate 36, Oslo,68 ,6 350 000,2
+Sigurd Hoels vei 73, Oslo,82 ,7 990 000,3
+Langes gate 6, Oslo,37 ,2 850 000 ,NaN
+Nordåssløyfa 20, Oslo,57 ,2 900 000,1
+Kristoffer Robins vei 44, Oslo,72 ,2 750 000,2
+Schleppegrellsgate 17A, Oslo,102 ,7 500 000,3
+Erich Mogensøns vei 20, Oslo,74 ,3 500 000,2
+Hesselbergs gate 6B, Oslo,32 ,3 490 000,1
+Aslakveien 24 A, Oslo,70 ,6 590 000,2
+Hagaveien 5D, Oslo,170 ,7 500 000,3
+Ullernchausséen 46A, Oslo,30 ,2 890 000,NaN
+Hovseterveien 52 B, Oslo,96 ,6 460 000,3
+Østerliveien 64B, Oslo,71 ,4 600 000,2
+Steinspranget 34, Oslo,66 ,4 000 000,2
+Østensjø Terrasse 3B, Oslo,226 ,12 500 000,4
+Bjartveien 2B, Oslo,39 ,3 100 000,1
+Selvbyggerveien 48, Oslo,36 ,3 400 000,1
+Brekkeveien 19, Oslo,94 ,8 550 000,3
+Maridalsveien 86A, Oslo,62 ,5 500 000,2
+Kurlandstien 34 F, Oslo,109 ,4 850 000,3
+Gråsteinveien 4, Oslo,67 ,4 200 000,2
+Bernt Knudsens vei 62, Oslo,68 ,5 850 000,2
+Inges gate 8K, Oslo,47 ,3 400 000,1
+Asperudveien 5C, Oslo,166 ,6 500 000,5
+Ullernchausséen 116D, Oslo,74 ,6 700 000,2
+Hoffsjef Løvenskiolds vei 27A, Oslo,124 ,10 250 000,2
+Gabels gate 48, Oslo,137 ,12 800 000,4
+Fossumberget 40, Oslo,71 ,3 000 000,1
+Monrads gate 3C, Oslo,51 ,3 750 000,1
+Telemarksvingen 16, Oslo,49 ,4 200 000,1
+Fyrstikkbakken 14 Hus B, Oslo,32 ,1 408 000 ,NaN
+ B og C - Visningssenter i Ulvenveien 82, Oslo,82 ,2 588 000 ,NaN
+Ekebergveien 223, Oslo,132 ,12 850 000,5
+ salgstrinn 2 (oppgang G og H ) - Visningssenter i Frysjaveien 44, Oslo,105 ,4 550 000 ,NaN
+Bygdøy allé 65 B, Oslo,36 ,3 600 000,NaN
+Ravnkollbakken 73, Oslo,83 ,3 200 000,2
+Sletteløkka 29B, Oslo,71 ,2 900 000,2
+Nordtvetveien 17, Oslo,63 ,3 600 000,2
+Ullevålsveien 59B, Oslo,64 ,5 950 000,2
+Bogstadveien 37, Oslo,94 ,8 450 000,2
+Bøgata 30A, Oslo,59 ,4 750 000,2
+Rosenborggata 12, Oslo,25 ,2 800 000,NaN
+Hoppveien 14, Oslo,118 ,9 000 000,3
+Radarveien 36, Oslo,53 ,3 500 000,1
+Sognsveien 131C, Oslo,63 ,6 500 000,2
+Lutvannsveien 21, Oslo,55 ,3 000 000,1
+Christoffer Hellums vei 34, Oslo,55 ,2 900 000,1
+Halvdan Svartes gate 44, Oslo,380 ,31 000 000,NaN
+Munkedamsveien 86B, Oslo,82 ,7 590 000,3
+Doktor Holms vei 6, Oslo,228 ,26 000 000,4
+Reichweins gate 1f, Oslo,60 ,5 790 000,1
+Stasjonsveien 49A, Oslo,55 ,4 360 000,2
+Nordbergveien 2E, Oslo,218 ,18 700 000,3
+Fyrstikkalléen 12A, Oslo,86 ,6 300 000 ,NaN
+Mellombølgen 4, Oslo,60 ,4 450 000,2
+Konghellegata 8, Oslo,82 ,6 750 000,2
+Karenslyst Allé 46, Oslo,83 ,8 850 000,2
+Nordre Dals vei 46, Oslo,130 ,6 250 000,4
+Ullern allé 123, Oslo,116 ,8 500 000,2
+Løkkeveien 11, Oslo,59 ,5 150 000,1
+Kranveien 4, Oslo,70 ,3 750 000,2
+Vetlandsveien 66, Oslo,32 ,3 100 000,1
+Nebbejordet 11, Oslo,75 ,3 400 000,2
+Deichmans Gate 27 A, Oslo,85 ,5 900 000,2
+Steinborgveien 32, Oslo,63 ,3 200 000,2
+Enoks vei 19, Oslo,65 ,5 200 000,2
+Østerli terrasse 19B, Oslo,128 ,5 950 000,3
+Christian Krohgs gate 39A, Oslo,40 ,4 390 000,1
+Nyquistveien 23, Oslo,65 ,5 500 000,2
+Knud Graahs gate 7, Oslo,39 ,3 700 000,1
+Sørkedalsveien 209B, Oslo,83 ,6 590 000,3
+Singasteinveien 4, Oslo,278 ,19 500 000,4
+Trosterudveien 65, Oslo,306 ,30 000 000,6
+Garver Ytteborgs vei 123, Oslo,87 ,3 350 000,3
+Harald Sohlbergs vei 1, Oslo,67 ,3 990 000,3
+Skullerudskogen 9, Oslo,38 ,2 350 000,1
+Ragnhild Schibbyes vei 26, Oslo,112 ,3 850 000,3
+Sloreåsen 8, Oslo,105 ,5 300 000,NaN
+Gamle Bygdevei 176, Oslo,80 ,3 950 000,2
+Fredrikke Qvams gate 13, Oslo,70 ,6 800 000,2
+Maria Dehlis vei 36B, Oslo,54 ,2 790 000,1
+Hasselhaugveien 31, Oslo,221 ,19 500 000,4
+Midtoddveien 22A, Oslo,191 ,12 950 000,3
+Ostadalsveien 38B, Oslo,55 ,3 990 000,1
+Ravnkroken 46E, Oslo,68 ,3 600 000,2
+Landingsveien 86, Oslo,57 ,4 300 000,1
+Carl Kjelsens vei 78, Oslo,92 ,7 500 000,2
+Sofies gate 50, Oslo,63 ,5 200 000,1
+Sorgenfrigata 27A, Oslo,96 ,9 490 000,2
+Christian Michelsens gate 45, Oslo,55 ,3 800 000,2
+Københavngata 21A, Oslo,48 ,3 890 000,1
+Trondheimsveien 83B, Oslo,53 ,3 900 000,1
+Finns vei 2, Oslo,65 ,5 450 000,2
+Ammerudveien 32, Oslo,245 ,10 900 000,5
+Kirkeveien 147C, Oslo,88 ,5 650 000,2
+Sarpsborggata 16F, Oslo,82 ,8 000 000,2
+Hoffsveien 26, Oslo,84 ,7 200 000,3
+Hans Nielsen Hauges gate 37G, Oslo,88 ,8 700 000,3
+Trosterudveien 6L, Oslo,152 ,14 500 000,3
+Hans Nielsen Hauges gate 25, Oslo,61 ,4 550 000,1
+Wessels gate 2 A, Oslo,38 ,4 000 000,1
+Fearnleys gate 5 B, Oslo,54 ,5 900 000,1
+Birch-Reichenwalds gate 2G, Oslo,82 ,7 900 000,3
+Dalsveien 27, Oslo,174 ,17 000 000,3
+Arnljot Gellines vei 35, Oslo,69 ,4 550 000 ,NaN
+Salmakersvenn Marius Jantzens plass 2, Oslo,82 ,12 000 000,3
+Gamlehagen 5, Oslo,64 ,3 650 000,2
+Elisenbergveien 35 A, Oslo,91 ,7 950 000,2
+Bygdøy allé 70, Oslo,52 ,4 500 000,1
+Gabbi Lunds vei 11B, Oslo,197 ,11 500 000,2
+Granbergstubben 166, Oslo,77 ,3 280 000,2
+Ravnkollbakken 2, Oslo,84 ,3 200 000,3
+Hans Nielsen Hauges gate 18, Oslo,54 ,4 600 000,2
+Grevlinglia 38, Oslo,122 ,5 150 000,3
+Høgåsveien 86F, Oslo,77 ,3 300 000,3
+Dalssvingen 19A, Oslo,80 ,3 940 000,3
+Eugenies gate 2, Oslo,64 ,6 490 000,2
+Motzfeldts gate 23, Oslo,51 ,3 850 000,1
+Middelthuns gate 19, Oslo,80 ,8 950 000,1
+Mor Go'hjertas vei 23, Oslo,32 ,2 490 000,1
+Maridalsveien 227A, Oslo,55 ,4 350 000,1
+Pilestredet Park 25, Oslo,89 ,9 950 000,3
+Bølerbakken 6, Oslo,65 ,3 690 000,2
+Fjordveien 1, Oslo,186 ,16 500 000,4
+Løvenskiolds gate 14, Oslo,46 ,4 300 000,1
+Sars' gate 31F, Oslo,50 ,3 700 000,1
+Bergkrystallen 10, Oslo,54 ,3 400 000,1
+Arbos gate 1B, Oslo,38 ,3 790 000,1
+Vesteråsveien 34c, Oslo,100 ,6 950 000,3
+Galgeberg 3A, Oslo,41 ,3 700 000,1
+Skådalsveien 10 E, Oslo,224 ,21 500 000 ,NaN
+CHRISTIAN KROHGS GATE 30, Oslo,61 ,4 800 000,1
+Emil Korsmos vei 5, Oslo,68 ,3 790 000,2
+Ulsholtveien 34, Oslo,30 ,2 490 000,NaN
+Sofies gate 60, Oslo,85 ,7 690 000,3
+Wessels gate 8, Oslo,38 ,2 990 000,1
+Lindebergåsen 50B, Oslo,49 ,2 700 000,1
+Kruttveien 12, Oslo,45 ,4 200 000,1
+Fahlstrøms Terrasse 5 og 7, Oslo,150 ,26 000 000 ,NaN
+Lunden 41B, Oslo,98 ,8 300 000,3
+Havreveien 2, Oslo,83 ,5 600 000,3
+Micheletveien 38G, Oslo,62 ,2 900 000,1
+Tokerudberget 21, Oslo,79 ,2 945 000,1
+Pilestredet 51B inngang Mauritz Hansens gate., Oslo,83 ,8 300 000,2
+Welding Olsens vei 7, Oslo,66 ,3 990 000,2
+Skogbrynet 37D, Oslo,84 ,6 900 000,3
+Brattbakken 14, Oslo,183 ,13 250 000,3
+Torshovgata 10B, Oslo,30 ,3 500 000,1
+Kristins vei 18, Oslo,47 ,2 900 000,NaN
+Mosekollen 5, Oslo,153 ,11 900 000,4
+Sigurd Hoels vei 73, Oslo,50 ,4 850 000,2
+Turbinveien 38, Oslo,40 ,2 290 000,1
+Seilduksgata 6B, Oslo,60 ,4 750 000,2
+Tennisveien 4 C, Oslo,210 ,18 800 000,4
+Mikrobølgen 1, Oslo,68 ,3 900 000,2
+Sorgenfrigata 34, Oslo,90 ,10 490 000 ,NaN
+Biskop Jens Nilssøns gate 20C, Oslo,64 ,4 800 000,2
+Fossveien 17, Oslo,72 ,6 200 000,3
+Jacob Aalls gate 10B, Oslo,93 ,9 500 000,2
+Villaveien 38, Oslo,266 ,32 000 000,5
+Balders gate 4, Oslo,69 ,5 990 000,1
+Kløfterhagen 27A, Oslo,100 ,5 000 000,3
+Åsengata 6C, Oslo,39 ,3 590 000,1
+Jonas Reins gate 4, Oslo,93 ,8 800 000,2
+Maridalsveien 48, Oslo,78 ,5 990 000,6
+Gamle Enebakkvei 71, Oslo,48 ,3 100 000,1
+HEYERDAHLS VEI 9 C&D, Oslo,169 ,28 500 000 ,NaN
+Vollebekk - Humla Brl - salgstrinn 4 - Visningssenter i Brobekkveien 60, Oslo,34 ,1 572 000 ,NaN
+Ekraveien 8, Oslo,133 ,13 850 000,3
+Sondrevegen 3G, Oslo,158 ,14 500 000,3
+Radarveien 66, Oslo,54 ,3 500 000,1
+Akersbakken 25 C, Oslo,82 ,6 400 000,2
+Borger Withs gate 21, Oslo,53 ,4 250 000,1
+Åsliveien 1D, Oslo,162 ,13 900 000,5
+Nedre Skøyen vei 12, Oslo,73 ,7 500 000,2
+Karlstadgata 17, Oslo,57 ,4 900 000,2
+Biskop Jens Nilssøns gate 16C, Oslo,68 ,4 490 000,2
+Mellombølgen 145, Oslo,51 ,3 490 000,1
+Skogryggveien 19D, Oslo,135 ,9 990 000,3
+Bård Skolemesters vei 18, Oslo,66 ,3 800 000,2
+Sloreåsen 12A, Oslo,97 ,4 200 000,3
+Jacob Aalls gate 31, Oslo,20 ,2 950 000,1
+Hansteens gate 18, Oslo,76 ,7 500 000,2
+Vestlisvingen 25, Oslo,85 ,3 800 000,3
+Hans Nordahls gate 76, Oslo,39 ,4 000 000,1
+Sørkedalsveien 11C, Oslo,75 ,7 700 000,2
+Messepromenaden 2, Oslo,51 ,5 100 000,1
+Tøyengata 30, Oslo,44 ,3 600 000,1
+Alnagata 11, Oslo,58 ,4 100 000,2
+Vestlisvingen 76, Oslo,75 ,2 990 000,1
+Prost hallings vei 50 B, Oslo,49 ,3 290 000,1
+Åkebergveien 18B, Oslo,81 ,5 390 000,3
+Pilestredet Park 28, Oslo,42 ,4 190 000,1
+Vallegata 22, Oslo,358 ,29 500 000,5
+Olav Kyrres gate 8, Oslo,43 ,4 950 000,1
+Ingeniørveien 16, Oslo,90 ,3 690 000,3
+Schous plass 7B, Oslo,71 ,5 550 000,2
+Thorvald Meyers gate 12F, Oslo,60 ,5 840 000,2
+Jerikoveien 25A, Oslo,54 ,3 080 000,1
+Frydenbergveien 56, Oslo,58 ,5 350 000,2
+Skøyenveien 63, Oslo,55 ,5 170 000,2
+Tromsøgata 22 A, Oslo,102 ,11 700 000,2
+Darres gate 20, Oslo,40 ,4 100 000,1
+Orrebakken 14 og 16, Oslo,571 ,31 600 000,5
+Drammensveien 103 D og E, Oslo,380 ,45 800 000,6
+Inkognito terrasse 5A, Oslo,139 ,12 250 000,2
